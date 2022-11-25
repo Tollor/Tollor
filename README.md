@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tollor
+- 👀 I’m interested in front-end web development and theology
+- 🌱 I’m currently learning GitHub
+- 💞️ I’m looking to collaborate on anything - I love working in a team.
+- 📫 You can reach me at basharan.wordpress.com
